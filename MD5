@@ -1,0 +1,14 @@
+5dd991df1eda920f65128b606667e403 *DESCRIPTION
+bd45ae07217f29a678847699d240c54c *LICENSE
+afffaaf4300682acdb229f4285482b5f *NAMESPACE
+130c0418fd97e146f34725f4dea108e9 *R/getBrightness.R
+22603a879b4c8fa2768374851c51e21d *R/getContrast.R
+15e72eae2a8685b3299c06a7bfc9e252 *R/getDarkness.R
+c709f73000b8de3bb9b734c11571a1e5 *R/getHazeFactor.R
+90080ca4b09131bb4312e065f229ff74 *R/plotRGBArray.R
+0203b1b4642125ee28f14ccdade10279 *inst/CITATION
+0bbe4ee961a5631af2b6c6b0c81a96d3 *man/getBrightness.Rd
+598ff8c0671f430a1f26d8f1cf37df33 *man/getContrast.Rd
+d6fdf63d6f9d94e3051ca54e8559e000 *man/getDarkness.Rd
+a3ba82458fc3c1942e53abc3a860c002 *man/getHazeFactor.Rd
+59cd6178cefdd5af4a4e5f32c62cd3ac *man/plotRGBArray.Rd
